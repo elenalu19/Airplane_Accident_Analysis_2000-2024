@@ -1,2 +1,4 @@
-    git add 2000-2024 Airplane Accidents.twbx
-    git commit -m "Add initial Tableau workbook"
+git add 2000-2024 Airplane Accidents.twbx
+git commit -m "Add initial Tableau workbook"
+git remote add origin https://github.com/elenalu19/Airplane_Accident_Analysis_2000-2024.git
+git push -u origin main
