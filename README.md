@@ -26,6 +26,10 @@ The data for this project was compiled from two primary sources:
 
 The raw data was cleaned and pre-processed using Microsoft Excel. The NTSB data and the U.S. president table were then joined using SQL in Google BigQuery to create a unified dataset.
 
+## Dashboard
+[Interactive Tableau Dashboard](https://public.tableau.com/shared/B3625B7GD?:display_count=n&:origin=viz_share_link)
+![Dashboard](Dashboard.png)
+
 ## Key Findings
 
 This analysis revealed several interesting insights, with more detailed findings available in the final Tableau dashboards:
@@ -37,9 +41,6 @@ This analysis revealed several interesting insights, with more detailed findings
 * **Alaska's Exception:** The high number of accidents in Alaska, disproportionate to its population, is primarily attributed to harsh weather conditions and rough terrain, which present unique challenges to aviation in the state.
 
 * **Pilot Flight Experience** The highest number of incidents occurred within the pilot experience range of 11,173 to 13,035 hours with all aircrafts. Moreover, for experience on the specific aircraft make and model, the highest percentage of accidents occurred with pilots who had between 0 and 1,175 hours.
-
-## Dashboard
-![Dashboard](Dashboard.png)
 
 ## Tools & Technologies
 
@@ -54,3 +55,10 @@ The project utilized a combination of programming languages, libraries, and soft
 * **Cloud & Database Services:** Google BigQuery, Google Colab
 
 * **Data Visualization:** Tableau
+
+## Future Expansion
+To provide a more comprehensive and contextual analysis, a future expansion of this project could focus on normalizing the accident data. This would involve accounting for the total number of flights and the size of each operator's fleet to calculate accident rates rather than just raw accident numbers.
+
+* **Plane Manufacturer Data**: I would seek to find reliable data on the number of planes each top manufacturer (e.g., Boeing, Airbus) has provided to American companies. This would allow me to normalize the accident count by the number of aircraft in service, providing more accurate context on a per-plane basis. Sources like the FAA's data system or specialized commercial databases could be explored.
+
+* **Operator Flight Data**: I would also aim to obtain the total number of flights performed by each airline or operator over the years. This data is often available from public sources like the Bureau of Transportation Statistics (BTS). By combining this data with the NTSB accident reports, I could calculate an accident rate per flight, which is a more standard and meaningful safety metric.
