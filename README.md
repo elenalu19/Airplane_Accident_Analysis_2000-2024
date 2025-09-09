@@ -52,20 +52,3 @@ The project utilized a combination of programming languages, libraries, and soft
 * **Cloud & Database Services:** Google BigQuery, Google Colab
 
 * **Data Visualization:** Tableau
-
-## Repository Structure
-notebooks/
-
-[Code_Aviation_Data_Collect&Clean.ipynb](Code_Aviation_Data_Collect&Clean.ipynb)
-
-data/
-[ext_far121_ntsb.csv](ext_far121_ntsb.csv)
-
-[USA_pres_2000-2025.csv](USA_pres_2000-2025.csv)
-
-[Joined_aviation_president.csv](Joined_aviation_president.csv)
-
-visualizations/
-[2000-2024 Airplane Accidents.twbx](2000-2024 Airplane Accidents.twbx)
-
-README.md
