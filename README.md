@@ -40,7 +40,7 @@ This analysis revealed several interesting insights, with more detailed findings
 
 * **Alaska's Exception:** The high number of accidents in Alaska, disproportionate to its population, is primarily attributed to harsh weather conditions and rough terrain, which present unique challenges to aviation in the state.
 
-* **Pilot Flight Experience** The highest number of incidents occurred within the pilot experience range of 11,173 to 13,035 hours with all aircrafts. Moreover, for experience on the specific aircraft make and model, the highest percentage of accidents occurred with pilots who had between 0 and 1,175 hours.
+* **Pilot Flight Experience:** The highest number of incidents occurred within the pilot experience range of 11,173 to 13,035 hours with all aircrafts. Moreover, for experience on the specific aircraft make and model, the highest percentage of accidents occurred with pilots who had between 0 and 1,175 hours.
 
 ## Tools & Technologies
 
