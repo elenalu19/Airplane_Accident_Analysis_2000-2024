@@ -16,7 +16,7 @@ The analysis was designed to explore the following factors:
 
 ## Data Sources & Methodology
 
-The data for this project was compiled from two primary sources:
+The data for this project was compiled from three primary sources:
 
 1. **NTSB Aviation Accident Data:** The initial dataset was sourced from the NTSB's public data query tool. A key step involved filtering for accidents with a "Complete" status and located in the United States, ensuring that final reports were available for analysis.
 
