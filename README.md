@@ -24,7 +24,7 @@ The data for this project was compiled from two primary sources:
 
 3. **U.S. President Data:** A separate table containing a list of U.S. presidents and their terms was used to join with the accident data, enabling historical comparisons.
 
-The raw data was cleaned and pre-processed using Microsoft Excel. The NTSB data and the U.S. president table were then joined using SQL in Google BigQuery to create a unified dataset.
+The raw data was cleaned and pre-processed using Microsoft Excel. The NTSB data and the U.S. president table were then joined using SQL in Google BigQuery to create a unified dataset. A significant challenge was the fact that more than half of the operator data was missing. This was identified and a Python script was used to parse the NTSB accident reports to find and add the missing operator information, greatly improving the completeness of the dataset.
 
 ## Dashboard
 [Interactive Tableau Dashboard](https://public.tableau.com/shared/B3625B7GD?:display_count=n&:origin=viz_share_link)
