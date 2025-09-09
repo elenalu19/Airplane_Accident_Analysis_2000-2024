@@ -36,6 +36,9 @@ This analysis revealed several interesting insights, with more detailed findings
 
 * **Alaska's Exception:** The high number of accidents in Alaska, disproportionate to its population, is primarily attributed to harsh weather conditions and rough terrain, which present unique challenges to aviation in the state.
 
+## Dashboard
+![Dashboard](Dashboard.png)
+
 ## Tools & Technologies
 
 The project utilized a combination of programming languages, libraries, and software for data extraction, analysis, and visualization.
