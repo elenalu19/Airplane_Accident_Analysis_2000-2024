@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project performs an in-depth analysis of USA aviation accidents from January 1, 2000, to the present day. While many public aviation accident datasets exist, this analysis focuses on previously unexplored factors by extracting information directly from the official NTSB (National Transportation Safety Board) accident reports. The primary goal was to answer questions related to pilot demographics, flight phase, and historical context, which are not readily available in the NTSB's queryable database.
+This project performs an in-depth analysis of USA aviation accidents from January 1, 2000, to the present day. While many public aviation accident datasets exist, this analysis focuses on previously unexplored factors by extracting information directly from the official NTSB (National Transportation Safety Board) accident reports. The primary goal was to answer questions related to pilot demographics, flight phase, and historical context, which are not readily available in the NTSB's queryable database. This analysis only includes data from FAR part 121 aircraft, which are commercial airlines that carry passengers.
 
 ## Key Questions & Hypotheses
 
